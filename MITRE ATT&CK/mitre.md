@@ -310,6 +310,3 @@ For security analysts and penetration testers, understanding MITRE ATT&CK is ess
 
 ---
 
-If you want, I can also show you something **extremely useful for your SOC learning**:
-
-👉 **How to read the MITRE ATT&CK matrix like an analyst** (most beginners use it wrong).
