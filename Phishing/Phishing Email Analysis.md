@@ -1,4 +1,3 @@
-Got it 👍 — you want a **proper practical write-up based on the exact course content**, not just a summary. I’ll structure it like a **SOC investigation note / study write-up**, keeping the **practical parts (static analysis, header analysis, dynamic analysis)** clear and usable.
 
 ---
 
